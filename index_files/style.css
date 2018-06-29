@@ -1,0 +1,30 @@
+A:hover {background-color:#00FFCC;}
+A:visited { color: blue; } 
+
+body {
+	margin:			0px;
+	background-color: #ececec;
+	font-family:	"sans-serif";
+
+
+
+
+
+}
+
+table.menu {
+	font-size:		x-small;
+	font-weight:	bold;
+	color: #FFFFFF;
+}
+td.main {
+	background: url(image/b9.gif)
+}
+td.footer {
+	background: url(image/footer.jpg)
+}
+
+p {
+	line-height: 110%;
+
+}
