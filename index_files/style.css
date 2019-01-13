@@ -1,30 +1,49 @@
-A:hover {background-color:#00FFCC;}
-A:visited { color: blue; } 
+
+
+.navbar {
+  overflow: hidden;
+  background-color: #ccffcc;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+
+a {
+    text-decoration: none;
+}
+
+
 
 body {
 	margin:			0px;
-	background-color: #ececec;
+	background-color: #ffffcc;
 	font-family:	"sans-serif";
-
-
-
-
-
 }
+
+
 
 table.menu {
 	font-size:		x-small;
 	font-weight:	bold;
 	color: #FFFFFF;
 }
-td.main {
-	background: url(image/b9.gif)
-}
-td.footer {
-	background: url(image/footer.jpg)
-}
+
+
 
 p {
 	line-height: 110%;
-
 }
