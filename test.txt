@@ -1,0 +1,74 @@
+   <tr> 
+  <td>
+  <table width="100%" border="0" cellpadding="5" cellspacing="0">
+	<tbody><tr>
+	  <td valign="top" align="left" height="504">Discrete signal design plays a very important role in widespread applications,
+	  such as spread spectrum, code division multiple access, cryptography, channel
+	  estimations, synchronization, optimal detections, etc. The topics of this
+	  workshop include, but are not limited to, the following:
+	  <ul>
+		<li>Big Data Analysis</li>
+		<li>Coding for Communications and Storage</li>
+		<li>Coding Theory</li>
+		<li>Combinatorial Structures for Code and Sequence Design</li>
+		<li>Communication Theory</li>
+		<li>Complexity and Computation Theory</li>
+		<li>Compressive Sensing and Sparsity</li>
+		<li>Cryptography, Privacy and Security</li>
+		<li>Data Hiding and Steganography</li>
+		<li>Detection and Estimation</li>
+		<li>Network Coding and Applications</li>
+		<li>Sequences</li>
+		<li>Signal Design for Radar</li>
+		<li>Signal Processing</li>
+		<li>Space-Time Codes</li>
+		<li>Wireless Communication and Networks</li>
+	  </ul>
+	</tr>
+	</tbody>
+   </table>
+   </td>
+   </tr>   
+ 
+ 
+ <table class="menu" width="100%" border="0" cellspacing="5" cellpadding="0" bgcolor="#3399FF">
+	<tbody>
+	  <tr>
+		<td><font color="#00FFCC">Important deadlines for authors</font></td>
+	  </tr>
+	  <tr>
+		<td>Manuscript submission :<br>
+		<font color="#FFFF00">May 31, 2019</font></font></td>
+	  </tr>
+	  <tr>
+		<td>Acceptance notification :<br>
+		<font color="#FFFF00">July 31, 2019</font></font></td>
+	  </tr>
+	  <tr>
+		<td>Camera-ready submission :<br>
+		<font color="#FFFF00">August 31, 2019</font></font></td>
+	  </tr>
+	  <tr>
+		<td>Early-Bird registration :<br>
+		<font color="#FFFF00">September 20, 2019</font></font></td>
+	  </tr>
+	</tbody>
+  </table>
+  
+  
+  <!--
+	<p align="left">IWSDA'19 is supported by the following technical sponsors: IEEE Guangzhou Section (China), Dongguan University of 
+	Technology (China), Southwest Jiaotong University (China), and Peking University Shenzhen Graduate School (China).</p>
+	-->
+	
+	 <p>
+     <a href="http://en.dgut.edu.cn/" target="_blank"> <img src="./index_files/dgut.png" border="0" hspace="30" width="100" height="100" alt="dgut" align='middle' class="center"> </a> 
+	 <a href="https://www.ieee.org/" target="_blank"> <img src="./index_files/IEEE.jpg" border="0" hspace="30"  width="100" height="30" alt="IEEE" align='middle' class="center"> </a>
+	 <a href="http://english.swjtu.edu.cn/" target="_blank"><img src="./index_files/swjtu.jpg" border="0" hspace="30"  width="100" height="100" alt="swjtu" align='middle' class="center"> </a>
+	 <a href="http://english.pkusz.edu.cn/" target="_blank"><img src="./index_files/pku.bmp" border="0" hspace="30"  width="100" height="100" alt="pkusz" align='middle' class="center"> </a>
+	 </p>
+	 
+     <p>&nbsp &nbsp</p>	 
+	 
+	 -->
+
